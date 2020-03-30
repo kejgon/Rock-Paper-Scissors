@@ -1,0 +1,19 @@
+    .game{
+    width: 50%;
+    height: 300px;
+    margin: 0 auto;
+    padding-top: 100px;
+
+    background-color: #242527;
+    }
+    #start-game-btn{
+    display: block;
+    max-width: 300px;
+    margin: auto;
+   padding: 10px 20px;
+
+    }
+    #start-game-btn:hover{
+    cursor: pointer;
+    background-color: aqua;
+    }
